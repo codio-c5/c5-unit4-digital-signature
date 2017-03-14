@@ -1,6 +1,9 @@
 - Open a Chrome browser and go to gmail.com.
 - Note that the url starts with **https**. This means that this is a secure communication.
 - Notice also the **lock** by the url. (Visit [https://support.google.com/chrome/answer/95617?hl=en](https://support.google.com/chrome/answer/95617?hl=en))
+
+### REVIEW below and following page- is this still correct. Not sure 'details' are still shown this way
+
 - Click on the lock and the details.
 - View the certificate for the site and answer these questions:
 	- Who is the certificate authority on this certificate?
