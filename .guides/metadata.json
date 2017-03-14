@@ -1,0 +1,273 @@
+{
+ "sections": [
+  {
+   "id": "d9e1fae0-9428-13da-5206-ff646aa29281",
+   "title": "Learning Objectives",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Learning-Objectives-d9e1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9186e57b-eab7-42f7-89fe-27b5a3476f4d",
+   "title": "Recall: Cryptography and the Main Tenets of Information Security",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recall--Cryptography-and-the-Main-Tenets-of-Information-Security-9186.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "268bd872-6b60-43df-14b3-9158376790ff",
+   "title": "Recall: Symmetric Key Cryptography",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recall--Symmetric-Key-Cryptography-268b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "da63309e-b055-77aa-4fe3-afc03750a380",
+   "title": "Recall: Asymmetric Encryption",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recall--Asymmetric-Encryption-da63.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "223e72b7-ffa4-d0bf-3b5d-db0c835a43d6",
+   "title": "Recall: Advantages of Asymmetric Encryption",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recall--Advantages-of-Asymmetric-Encryption-223e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f31b1777-cbb9-04a4-89ab-b732ffda66ce",
+   "title": "Recall: Problem of Authentication",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recall--Problem-of-Authentication-f31b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "70c9499c-8641-399e-4d43-fa151783f711",
+   "title": "Digital Signatures",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Digital-Signatures-70c9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8552b73e-a5d4-22a4-f158-57fb0306c4de",
+   "title": "Digital Signatures and Authentication",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Digital-Signatures-and-Authentication-8552.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b285a87a-65d8-a15c-a53e-8a699908d8b1",
+   "title": "Signature Creation and Verification",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Signature-Creation-and-Verification-b285.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3d727e8d-c6b4-1bd6-6bde-e03d2697918d",
+   "title": "Digital Signatures and Integrity",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Digital-Signatures-and-Integrity-3d72.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b83dfac3-82b1-27df-3bd3-070095db45b5",
+   "title": "Digital Signatures and Non-repudiation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Digital-Signatures-and-Non-repudiation-b83d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "64312cc1-149e-b3b0-de30-7fa4e50ad16d",
+   "title": "Digital Signatures and Hash Functions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Digital-Signatures-and-Hash-Functions-6431.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b07a14d6-9c99-ecf5-ff00-0bce2b84a5b5",
+   "title": "Examples of Digital Signature Algorithms",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Examples-of-Digital-Signature-Algorithms-b07a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6c6af561-e7d3-6a94-0548-10dbff12fa3f",
+   "title": "Still a Problem: Authenticity",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Still-a-Problem--Authenticity-6c6a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "feaa3ef3-03e4-f9af-25bf-6f199d9ba54c",
+   "title": "PKI – Public Key Infrastructure",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/PKI---Public-Key-Infrastructure-feaa.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "57a9ec47-202b-ea0b-4049-20b32b0896f7",
+   "title": "Digital Certificates",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Digital-Certificates-57a9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "03cb2296-a9f0-ee26-5643-464abb4aa487",
+   "title": "Digital Certificates",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Digital-Certificates-03cb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1d5f5ea1-2f66-aa41-4e3f-f728459440d0",
+   "title": "A Digital Certificate",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/A-Digital-Certificate-1d5f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "dbbd2c58-36ca-cd6a-2d1c-e6a6a227d031",
+   "title": "Certificate Authority (CA)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Certificate-Authority--CA--dbbd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "353e3122-fc7b-d10b-0dfd-e31a66a70914",
+   "title": "Certification Path and Chain of Trust",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Certification-Path-and-Chain-of-Trust-353e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d54104aa-9dd1-2fea-a56d-af66809f137a",
+   "title": "Elements of PKI",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Elements-of-PKI-d541.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6821590b-1c9a-ff4f-9b8c-bcd41bd1a440",
+   "title": "Some Applications in Which Cryptography Is Used",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Some-Applications-in-Which-Cryptography-Is-Used-6821.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "bbb01596-b88e-2459-8d7b-e0df2b808517",
+   "title": "Hands-on: Examine Digital Certificates",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hands-on--Examine-Digital-Certificates-bbb0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c3e3f2a3-7beb-3cad-5903-032d4f2c1bc6",
+   "title": "Hands-on: Find the Certification Path",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hands-on--Find-the-Certification-Path-c3e3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "hideMenu": false
+}
