@@ -2,7 +2,7 @@
 - Note that the url starts with **https**. This means that this is a secure communication.
 - Notice also the **lock** by the url. (Visit [https://support.google.com/chrome/answer/95617?hl=en](https://support.google.com/chrome/answer/95617?hl=en))
 
-### REVIEW below and following page- BEth is aware this is no longer correct for Chrome
+### REVIEW below and following page - this is no longer correct for Chrome
 
 - Click on the lock and the details.
 - View the certificate for the site and answer these questions:
